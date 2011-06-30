@@ -182,6 +182,10 @@
 				RelativePath=".\stdafx.cpp"
 				>
 			</File>
+			<File
+				RelativePath=".\YngCmd.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"
@@ -198,6 +202,10 @@
 			</File>
 			<File
 				RelativePath=".\targetver.h"
+				>
+			</File>
+			<File
+				RelativePath=".\YngCmd.h"
 				>
 			</File>
 		</Filter>
